@@ -1,3 +1,7 @@
 .activityTable tr {
   border-bottom: 1px dashed red;
 }
+
+.engagedToday {
+  background-color: lightblue;
+}
